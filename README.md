@@ -1,4 +1,4 @@
-
+ 
 # INTRODUCCIÓN A LOS LENGUAJES DE MARCA - LLSGI
 ## TEMA 2 - Introducción al CSS
 **Tarea**
@@ -37,7 +37,7 @@ Cumplido este requisito.
 </p>
        
 
-- Para ubicar las imágenes y el código CSS he utilizado **absolute path**(link rel="stylesheet" href="diseño.css" type="text/css"/).
+- Para ubicar las imágenes y el código CSS he utilizado **absolute path** (link rel="stylesheet" href="diseño.css" type="text/css"/).
 - He comprobado el buen funcionamiento de la página en Chrome, Explorer, Firefox y Opera. En todos estos navegadores funciona perfectamente.
 
 
