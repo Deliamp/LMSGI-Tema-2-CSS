@@ -1,4 +1,4 @@
- 
+ #FFFFFF 
 # INTRODUCCIÓN A LOS LENGUAJES DE MARCA - LLSGI
 ## TEMA 2 - Introducción al CSS
 **Tarea**
@@ -8,7 +8,7 @@
 He elegido la siguiente paleta de colores
 
 **2º - Los rótulos informativos (h1-h6) con color de fondo.**
-He aplicado a los rótulos informativos utilizados el color del fondo. Para el fondo elegí el color, y es el mismo que he indicado en el código para el texto de cada uno de los rótulos.
+He aplicado a los rótulos informativos utilizados el color del fondo. Para el fondo elegí el color #FFFFFF, y es el mismo que he indicado en el código para el texto de cada uno de los rótulos.
 
 **3º - Tabla con cabecera y alternancia de colores.**
 Utilizando la misma tabla creada para el ejercicio inicial de html he aplicado a la misma una cabecera y alternancia de colores, tanto para el fondo como para los pérfiles de la misma.
