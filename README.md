@@ -1,3 +1,4 @@
+
 # INTRODUCCIÓN A LOS LENGUAJES DE MARCA - LLSGI
 ## TEMA 2 - Introducción al CSS
 **Tarea**
@@ -12,10 +13,13 @@ He aplicado a los rótulos informativos utilizados el color del fondo. Para el f
 **3º - Tabla con cabecera y alternancia de colores.**
 Utilizando la misma tabla creada para el ejercicio inicial de html he aplicado a la misma una cabecera y alternancia de colores, tanto para el fondo como para los pérfiles de la misma.
 
-**4º - Fondo de color o imagen de fondo.**
+**4º - Enlaces de color direrente al que hay por defecto.**
+Cumplido este requisito.
+
+**5º - Fondo de color o imagen de fondo.**
 Para el fondo he utilizado el color, el cual es el mismo que he utilizado para los títulos informativos (h1-h6).
 
-**5º - Todo el texto debe tener fuente Arial (font-family: Arial) y tamaño adecuado al diseño.**
+**6º - Todo el texto debe tener fuente Arial (font-family: Arial) y tamaño adecuado al diseño.**
 Cumplido este requisito.
 		
 **NOTAS:**
