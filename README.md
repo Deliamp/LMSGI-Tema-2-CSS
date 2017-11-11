@@ -4,7 +4,7 @@
 **Alumna: Delia Montero Peralta**
 
 **1º - Elige una paleta de colores para tu web (4-6 colores)para aplicar el diseño.**
-He elegido la siguiente paleta de colores de 6 colore:
+He elegido la siguiente paleta de colores de 6 colores:
 1. #FFFFFF
 1. #F6416C
 1. #27296D
@@ -22,7 +22,7 @@ Utilizando la misma tabla creada para el ejercicio inicial de html he aplicado a
 Cumplido este requisito.
 
 **5º - Fondo de color o imagen de fondo.**
-Para el fondo he utilizado el color, el cual es el mismo que he utilizado para los títulos informativos (h1-h6).
+Para el fondo he utilizado el color #FFFFFF, el cual es el mismo que he utilizado para los títulos informativos (h1-h6).
 
 **6º - Todo el texto debe tener fuente Arial (font-family: Arial) y tamaño adecuado al diseño.**
 Cumplido este requisito.
