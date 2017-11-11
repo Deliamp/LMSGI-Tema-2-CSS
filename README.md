@@ -9,7 +9,7 @@ He elegido la siguiente paleta de colores de 6 colores:
 1. #F6416C
 1. #27296D
 1. #A6E3E9
-1. #F8F3D4
+1. #EEC591
 1. #E4F9F5
 
 **2º - Los rótulos informativos (h1-h6) con color de fondo.**
