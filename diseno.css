@@ -1,0 +1,96 @@
+h1 {
+    font-family: "Arial";
+    font-size: 60px;
+    color: #FFFFFF;
+    text-align: center;
+}
+h2 {
+    font-family: "Arial";
+    font-size: 40px;
+    color: #FFFFFF;
+    text-align: center;
+}
+h3 {
+    font-family: "Arial";
+    font-size: 30px;
+    color: #FFFFFF;
+    text-align: center;
+}
+h6 {
+    font-family: "Arial";
+    font-size: 15px;
+    text-align: center;
+    color: #FFFFFF;
+}
+p {
+    font-family: "Arial";
+    text-align: center;
+    font-size: 19px;
+    color: #27296D;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 54%;
+}
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+}
+#contenedor{  
+        background-color:#FFFFFF;  
+}  
+#titulo{  
+        background-color:#F6416C; 
+        border:5px solid #F6416C;   
+} 
+#cabecera{  
+        background-color:#27296D;  
+        height:20%;
+	border:5px solid #27296D;   
+}  
+#izquierda{  
+        height:80%;  
+        background-color:#A6E3E9;  
+        float:left;  
+        width:50%; 
+}  
+#derecha{  
+        height:50%;  
+        background-color:#EEC591;  
+        float:right;  
+        width:50%; 
+}  
+#pie{  
+        height:20%;  
+        background-color:#27296D;  
+        clear:both;  
+}
+li{
+    list-style-position: inside;
+    font-family: "Arial";
+    font-size: 20px;
+    font-color: #F6416C;
+}  
+#tipos {
+    font-family: "Arial";
+    border-collapse: collapse;
+    width: 100%;
+ }
+
+#tipos td, #tipos th {
+    border: 5px solid #EEC591;
+    padding: 8px;
+}
+
+#tipos tr:nth-child(even){background-color: #E4F9F5;}
+
+#tipos tr:hover {background-color: #FFFFFF;}
+
+#tipos th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align:center;
+    background-color: #27296D;
+    color: white;
+}
