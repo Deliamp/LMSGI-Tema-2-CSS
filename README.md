@@ -1,11 +1,16 @@
- #FFFFFF 
 # INTRODUCCIÓN A LOS LENGUAJES DE MARCA - LLSGI
 ## TEMA 2 - Introducción al CSS
 **Tarea**
 **Alumna: Delia Montero Peralta**
 
 **1º - Elige una paleta de colores para tu web (4-6 colores)para aplicar el diseño.**
-He elegido la siguiente paleta de colores
+He elegido la siguiente paleta de colores de 6 colore:
+1. #FFFFFF
+1. #F6416C
+1. #27296D
+1. #A6E3E9
+1. #F8F3D4
+1. #E4F9F5
 
 **2º - Los rótulos informativos (h1-h6) con color de fondo.**
 He aplicado a los rótulos informativos utilizados el color del fondo. Para el fondo elegí el color #FFFFFF, y es el mismo que he indicado en el código para el texto de cada uno de los rótulos.
