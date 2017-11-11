@@ -23,7 +23,7 @@ Cumplido este requisito.
 - He puesto todo lo que se solicitaba en el enunciado de la tarea.
 - El texto se lee claramente y con unos colores, que según mi parecer, hacen atractiva la página.
 - Código html validado con [validator.w3.org](https://validator.w3.org/). No muestra ningún error (Document checking completed. No errors or warnings to show).
-- Código CSS validado con [jigsaw.w3.org](http://jigsaw.w3.org/css-validator/). <link rel="stylesheet" href="diseño.css" type="text/css"/>. Incluyo imagen de CSS validado:
+- Código CSS validado con [jigsaw.w3.org](http://jigsaw.w3.org/css-validator/). Incluyo imagen de CSS validado:
 <p>
     <a href="http://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
@@ -33,7 +33,7 @@ Cumplido este requisito.
 </p>
        
 
-- Para ubicar las imágenes y el código CSS he utilizado **absolute path** (archivos index.html e index2.html).
+- Para ubicar las imágenes y el código CSS he utilizado **absolute path**(<link rel="stylesheet" href="diseño.css" type="text/css"/>).
 - He comprobado el buen funcionamiento de la página en Chrome, Explorer, Firefox y Opera. En todos estos navegadores funciona perfectamente.
 
 
